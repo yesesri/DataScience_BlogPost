@@ -25,10 +25,10 @@ I have done this analysis for the Udacit project.
 I even wanted to know if the students in china and India prefer to learn programming languages that are mostly used by programmers in USA.
 
 File Description
-"survey_results_public_2019.csv" file have the survey results
-"survey_results_schema.csv" file includes colum description of data in above file.
-"DataScience_Blog_post.ipynb" : analysis code file.
-Figure folder : Includes all the analysis figures and other figures used in the notebook and for blog post.
+ "./developer_survey_2019.zip/survey_results_public_2019.csv" file have the survey results
+  "./developer_survey_2019.zip/survey_results_schema.csv" file includes colum description of data in above file.
+   "DataScience_Blog_post.ipynb" : analysis code file.
+   Figure folder.zip : Includes all the analysis figures and other figures used in the notebook and for blog post.
 
 
 Inference from analysis
